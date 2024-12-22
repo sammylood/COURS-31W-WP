@@ -1,0 +1,24 @@
+.global {
+  display: flex;
+    justify-content: space-between;
+    gap: 100px;
+    max-width: 1100px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.entete {
+  background-color: #00dfdf;
+}
+
+.principal {
+    display: flex;
+      flex-direction: column;
+      flex-wrap: nowrap;
+      justify-content: center;
+      align-items: center;
+}
+
+.pied {
+  background-color: rgb(102, 172, 36);
+}
