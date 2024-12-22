@@ -37255,3 +37255,696 @@ array (
   'filesystem_initialized' => false,
 )
 
+[Sun, 22 Dec 2024 07:51:49 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 07:52:50 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 07:53:50 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 07:55:51 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 07:57:52 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 07:59:53 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:01:54 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:15:00 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:15:02 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:16:03 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:16:09 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:17:10 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:17:34 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:18:09 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:18:55 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:19:57 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:20:03 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:21:04 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:22:07 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:22:08 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
+[Sun, 22 Dec 2024 08:22:43 +0000] wpr: __construct
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'skip_hooks' => false,
+  'debug' => true,
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+)
+array (
+  'prefix' => 'wpr',
+  'licensing_servers' => 
+  array (
+    0 => 'https://dashboard.wpreset.com/api/',
+  ),
+  'version' => '2.04',
+  'slug' => 'wp-reset',
+  'basename' => 'wp-reset/wp-reset.php',
+  'plugin_page' => 'tools_page_wp-reset',
+  'plugin_file' => 'C:\\xampp\\htdocs\\31W\\wp-content\\plugins\\wp-reset\\wp-reset.php',
+  'js_folder' => 'http://localhost/31w/wp-content/plugins/wp-reset//js/',
+  'api_ver' => 'v1/',
+  'valid_forever' => '2035-01-01',
+  'unlimited_installs' => 99999,
+  'debug' => true,
+  'filesystem_initialized' => false,
+)
+
